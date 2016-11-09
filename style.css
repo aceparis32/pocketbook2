@@ -2,8 +2,91 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/pocketbook/bg.jpg");
 }
 
 .container {
   max-width: 940px;
+}
+.header .container {
+  border-bottom: 1px solid white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.footer .container {
+  border-top: 1px solid white;
+}
+
+.logo {
+  width: 7%;
+}
+
+.form-title {
+  color: white;
+  padding-top: 50px;
+  font-weight: strong;
+}
+
+.form-group {
+  color: white;
+}
+
+#fname {
+  height: 40px;
+  width: 50%;
+  color: black;
+  display: block;
+}
+
+#lname {
+  height: 40px;
+  width: 50%;
+  color: black;
+  display: block;
+}
+
+#email {
+  height: 40px;
+  width: 50%;
+  color: black;
+  display: block;
+}
+
+#password {
+  height: 40px;
+  width: 50%;
+  color: black;
+  display: block;
+}
+
+#button {
+  width: 17%;
+  height: 40px;
+  background-color: #265F4D;
+  color: white;
+  border: none;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.footer ul {
+  color: white;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.footer li {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+}
+
+.main {
+  padding-bottom: 20px;
+}
+
+.form-group # {
+  
 }
