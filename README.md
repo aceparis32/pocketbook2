@@ -34,8 +34,6 @@ In the `footer`, add text for the three items and a top border. Display the item
 
 Change the background image of the body. Feel free to use your own image. [Here's the one](https://s3.amazonaws.com/codecademy-content/projects/pocketbook/bg.jpg) we used.
 
-#### Step 5
-
 ## Contributions
 
 If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
